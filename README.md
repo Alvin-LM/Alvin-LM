@@ -20,11 +20,17 @@ I'm Alvin-LM, JS coder
 - Email: alvin.lm.liu@gmail.com
 - WeChat: chenzisangeban
 
-<a href="https://github.com/Alvin-LM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alvin-LM&show_icons=true&count_privat" />
-</a>
+<div>
+  <a href="https://github.com/Alvin-LM">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alvin-LM&show_icons=true&count_privat" />
+  </a>
+</div>
 
-<a href="https://github.com/Alvin-LM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvin-Lm&layout=compact" />
-</a>
+<br />
+
+<div>
+  <a href="https://github.com/Alvin-LM">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvin-Lm&layout=compact" />
+  </a>
+</div>
 
