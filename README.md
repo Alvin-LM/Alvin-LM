@@ -3,12 +3,12 @@
 I'm Alvin-LM, JS coder
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-Vue-46b882?style=flat&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/wechat_miniprogram-09b955?style=flat&logo=wechat&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScripe-vin?style=flat&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/-TypeScript-vin?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/-Vue-vin?style=flat&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-vin?style=flat&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/-Node.js-vin?style=flat&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/wechat_miniprogram-vin?style=flat&logo=wechat&logoColor=white">
 </div>
 
 ## Contact me 📫 
@@ -22,7 +22,7 @@ I'm Alvin-LM, JS coder
 
 <div>
   <a href="https://github.com/Alvin-LM">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alvin-LM&show_icons=true&count_privat" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alvin-LM&show_icons=true&count_privat&theme=tokyonight" />
   </a>
 </div>
 
@@ -30,7 +30,6 @@ I'm Alvin-LM, JS coder
 
 <div>
   <a href="https://github.com/Alvin-LM">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvin-Lm&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvin-Lm&layout=compact&theme=tokyonight" />
   </a>
 </div>
-
